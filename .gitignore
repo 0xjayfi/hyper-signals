@@ -55,3 +55,6 @@ test_data.json
 
 # Cache
 .cache/
+
+# Generated output
+output/
