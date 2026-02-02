@@ -1,0 +1,90 @@
+{
+  "BTC": {
+    "data": [
+      {
+        "address": "0x1234567890abcdef1234567890abcdef12345678",
+        "address_label": "Whale_BTC_Long",
+        "side": "Long",
+        "position_value_usd": 15500000,
+        "entry_price": 98500,
+        "upnl_usd": 850000
+      },
+      {
+        "address": "0xabcdef1234567890abcdef1234567890abcdef12",
+        "address_label": "Smart_Money_1",
+        "side": "Short",
+        "position_value_usd": 12300000,
+        "entry_price": 101200,
+        "upnl_usd": -320000
+      },
+      {
+        "address": "0x2345678901bcdef2345678901bcdef234567890a",
+        "address_label": "Fund_Alpha",
+        "side": "Long",
+        "position_value_usd": 9800000,
+        "entry_price": 97200,
+        "upnl_usd": 1200000
+      }
+    ]
+  },
+  "ETH": {
+    "data": [
+      {
+        "address": "0x3456789012cdef3456789012cdef345678901bcd",
+        "address_label": "ETH_Maximalist",
+        "side": "Long",
+        "position_value_usd": 8200000,
+        "entry_price": 3450,
+        "upnl_usd": 520000
+      },
+      {
+        "address": "0x456789013def456789013def456789012cdef345",
+        "address_label": "Hedge_Fund_X",
+        "side": "Short",
+        "position_value_usd": 6500000,
+        "entry_price": 3600,
+        "upnl_usd": 280000
+      }
+    ]
+  },
+  "SOL": {
+    "data": [
+      {
+        "address": "0x56789014ef56789014ef56789013def456789012",
+        "address_label": "SOL_Degen",
+        "side": "Long",
+        "position_value_usd": 4500000,
+        "entry_price": 185.50,
+        "upnl_usd": -150000
+      },
+      {
+        "address": "0x6789015f6789015f6789014ef56789013def4567",
+        "address_label": "Trader_Joe",
+        "side": "Long",
+        "position_value_usd": 3200000,
+        "entry_price": 178.25,
+        "upnl_usd": 420000
+      }
+    ]
+  },
+  "HYPE": {
+    "data": [
+      {
+        "address": "0x789016789016789015f6789014ef56789013def",
+        "address_label": "HYPE_Early_Adopter",
+        "side": "Long",
+        "position_value_usd": 2800000,
+        "entry_price": 24.50,
+        "upnl_usd": 980000
+      },
+      {
+        "address": "0x89017890178901689016789015f6789014ef5678",
+        "address_label": "Contrarian_Bear",
+        "side": "Short",
+        "position_value_usd": 1500000,
+        "entry_price": 28.75,
+        "upnl_usd": -75000
+      }
+    ]
+  }
+}
